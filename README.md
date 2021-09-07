@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jweaver3
-- 👀 I’m interested in Autonomously Dispatched Energy 
+- 👀 I’m interested in Autonomously Dispatched Energy Systems⚡💨🌞, Greenhouse Automation Systems🌱🍅, and public health📈👨‍⚕️
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything energy related
+- 💞️ I’m looking to collaborate on anything energy, growing, or health related
+- 🕊 I want to help people live happy, comfortable, and fulfilling lives 
 - 📫 You can reach me though linkedin at https://www.linkedin.com/in/joseph-weaver-207950171/
 
 
