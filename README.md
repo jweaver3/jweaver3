@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jweaver3
 - 👀 I’m interested in Autonomously Dispatched Energy Systems⚡💨🌞, Greenhouse Automation Systems🌱🍅, and Public Health📈👨‍⚕️
 - 🌱 I’m currently trying to learn python
-- ⭐I'm looking for a eduaction at an Agronomic University
 - 💞️ I’m looking to collaborate on anything energy, growing, or health related
 - 🕊 I want to help people live happy, comfortable, and fulfilling lives 
 - 🕸 I have a online résumé at https://jweaver3.github.io/
