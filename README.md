@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything energy, growing, or health related
 - 🕊 I want to help people live happy, comfortable, and fulfilling lives 
 - 🕸 I have a online résumé at https://jweaver3.github.io/
-- 🤔 I post some of my thoughts at https://jweaver3.github.io/palpitations-and-caffeine.html
 - 📫 You can reach me though linkedin at https://www.linkedin.com/in/joseph-weaver-207950171/
 
 
